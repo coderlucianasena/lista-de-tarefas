@@ -48,7 +48,7 @@ const App = () => {
       </C.Area>
       <C.Footer>
 
-      <a href='https://github.com/englucianasena'>
+      <a href='https://github.com/englucianasena' target='blank'>
       <img src={github} 
       className="App-logo" 
       alt="logo" 
@@ -56,7 +56,7 @@ const App = () => {
       width="50"
       />
       </a>
-      <a href='https://www.linkedin.com/in/englucianasena/'>
+      <a href='https://www.linkedin.com/in/englucianasena/' target='blank'>
         <img src={linkedin} 
         className="App-logo" 
         alt="logo" 
