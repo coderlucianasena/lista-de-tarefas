@@ -47,18 +47,24 @@ const App = () => {
         ))}
       </C.Area>
       <C.Footer>
+
+      <a href='https://github.com/englucianasena'>
       <img src={github} 
       className="App-logo" 
       alt="logo" 
       height="50"
       width="50"
       />
+      </a>
+      <a href='https://www.linkedin.com/in/englucianasena/'>
         <img src={linkedin} 
         className="App-logo" 
         alt="logo" 
         height="50"
         width="50"
         />
+      </a>
+      
       </C.Footer>
     </C.Container>
   );
